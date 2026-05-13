@@ -492,6 +492,267 @@ export const Message=async(req,res)=>{
   "stay safe": "🛡️ Stay safe and take care of yourself.",
 
   "have a beautiful day": "🌸 Wishing you a day full of smiles and positivity.",
+  
+  "what is today's date": "📅 Today is a beautiful new day full of opportunities.",
+
+  "what is the date today": "🗓️ Today’s date marks another chance to learn and grow.",
+
+  "what day is today": "📆 Today is a great day to do something amazing.",
+
+  "what was yesterday": "⏪ Yesterday is a memory and a lesson for today.",
+
+  "what was yesterday's date": "📅 Yesterday was part of your journey and experiences.",
+
+  "what is tomorrow": "⏩ Tomorrow brings new hopes and possibilities.",
+
+  "what is tomorrow's date": "🗓️ Tomorrow is another fresh beginning waiting for you.",
+
+  "which week is going on": "📆 Every week is a new chance to improve and succeed.",
+
+  "what month is this": "🗓️ Every month brings new goals and memories.",
+
+  "what year is this": "🎉 A new year means new opportunities and growth.",
+
+  "is today weekend": "🌈 Weekends are perfect for relaxing and enjoying life.",
+
+  "is today monday": "💼 Monday is a fresh start to the week.",
+
+  "is today tuesday": "⚡ Tuesday is a great day to stay productive.",
+
+  "is today wednesday": "🌟 Wednesday means you’re halfway through the week!",
+
+  "is today thursday": "🚀 Thursday is another step closer to your goals.",
+
+  "is today friday": "🎉 Friday brings excitement and weekend vibes.",
+
+  "is today saturday": "😄 Saturday is perfect for fun and relaxation.",
+
+  "is today sunday": "☀️ Sunday is a day to rest and recharge.",
+
+  "how many days in a week": "📆 A week has 7 days full of opportunities.",
+
+  "how many months in a year": "🗓️ A year has 12 months.",
+
+  "how many days in a year": "🌍 A normal year has 365 days.",
+
+  "what time is it": "⏰ Time keeps moving, so make every moment count.",
+
+  "good morning today": "🌅 Today is a new beginning filled with possibilities.",
+
+  "today weather": "☁️ Every day brings different weather and new vibes.",
+
+  "today special": "✨ Every day is special when you make it meaningful.",
+
+  "today quote": "🌟 Today is another chance to become better than yesterday.",
+
+  "yesterday quote": "💡 Learn from yesterday, live for today, hope for tomorrow.",
+
+  "weekend plans": "🎈 Weekends are great for relaxing, fun, and family time.",
+
+  "new week motivation": "🚀 New week, new goals, new opportunities.",
+
+  "hey whats up": "😄 Hey! Just chilling and ready to chat with you.",
+
+  "whats up": "👋 Not much! What’s going on with you?",
+
+  "yo": "😎 Yo! Hope you’re having a great day.",
+
+  "sup": "🔥 All good here! What about you?",
+
+  "hey buddy": "🤝 Hey buddy! Nice to see you again.",
+
+  "hello bro": "😄 Hey bro! What’s new today?",
+
+  "hi dude": "😎 Hi dude! Ready for some fun conversation?",
+
+  "good to see you": "😊 Great to see you too!",
+
+  "long time no see": "✨ Yeah! Feels awesome to chat again.",
+
+  "missed you": "💙 Aww! I’m always here for you.",
+
+  "im back": "🎉 Welcome back! Let’s continue the fun.",
+
+  "are you there": "👀 Yep! Always here and ready to chat.",
+
+  "you free": "🤖 I’m always free for you.",
+
+  "lets talk": "💬 Sure! What would you like to talk about?",
+
+  "can we chat": "😊 Absolutely! I’d love to chat with you.",
+
+  "how is everything": "🌈 Everything’s going smoothly here!",
+
+  "how are things going": "😄 Pretty awesome! Hope things are great for you too.",
+
+  "what are you doing": "🤖 Just waiting for your messages.",
+
+  "hello my friend": "💖 Hello my friend! Hope you’re doing well.",
+
+  "hii": "👋 Hii! How can I make your day better?",
+
+  "hello": "😊 Hello there! Nice to chat with you.",
+
+  "hey there": "✨ Hey there! What’s up?",
+
+  "good morning buddy": "🌅 Good Morning buddy! Have an amazing day.",
+
+  "good night friend": "🌙 Good Night my friend! Sweet dreams.",
+
+  "tell me something fun": "🎉 Did you know? Honey never spoils even after thousands of years!",
+
+  "say something cool": "🔥 Your future is created by what you do today.",
+
+  "say something nice": "😊 You bring positive energy wherever you go.",
+
+  "how was your day": "🌟 My day became better after talking with you!",
+
+  "what's new": "🚀 New conversations, new vibes, and more fun!",
+
+  "hello chatbot": "🤖 Hello human! Ready for another awesome chat?",
+
+  "what can you do for me": "🤖 I can chat with you, answer questions, help with coding, tell jokes, give motivation, share facts, and make your day more fun!",
+
+  "how can you help me": "💡 I can help with learning, coding, chatting, motivation, general knowledge, and much more.",
+
+  "what are your features": "⚡ I can answer questions, solve coding problems, chat naturally, and provide useful information anytime.",
+
+  "can you help in studies": "📚 Absolutely! I can explain topics, solve doubts, and help you learn better.",
+
+  "can you help in coding": "💻 Yes! I can help with HTML, CSS, JavaScript, React, Node.js, MongoDB, and debugging.",
+
+  "can you motivate me": "🔥 Of course! I’m here to encourage and inspire you whenever you need.",
+
+  "can you make me laugh": "😂 Definitely! I’ve got jokes and fun facts ready.",
+
+  "can you answer questions": "❓ Yes! Ask me anything and I’ll try my best to help.",
+
+  "can you teach me": "📖 Yes! I love helping people learn new things.",
+
+  "can you chat with me": "💬 Anytime! I’m always ready for a good conversation.",
+
+  "can you solve problems": "🛠️ I’ll do my best to help solve your questions and challenges.",
+
+  "can you explain things": "✨ Yes! I can explain topics in simple and easy language.",
+
+  "can you tell stories": "📚 Sure! I can share fun, motivational, or creative stories.",
+
+  "can you give advice": "💡 I can share helpful suggestions and positive guidance.",
+
+  "why should i use you": "🚀 Because I’m here 24/7 to help, chat, and make things easier for you.",
+
+  "are you useful": "😊 I try my best to be helpful, informative, and fun to talk with.",
+
+  "what makes you special": "🤖 I’m always available to help and chat without getting tired.",
+
+  "can you be my assistant": "📌 Absolutely! I’d be happy to assist you anytime.",
+
+  "what are you good at": "⚡ I’m good at chatting, coding help, explanations, motivation, and answering questions.",
+
+  "can you entertain me": "🎉 Yes! I can tell jokes, fun facts, and keep conversations interesting.",
+
+  "who won yesterday's match": "🏆 I’m not sure which match you mean, but yesterday’s games were exciting!",
+
+  "who won today's match": "⚡ Today’s match results are full of surprises and excitement!",
+
+  "who won the match": "🏏 Every match brings thrilling moments and amazing performances.",
+
+  "which team won today": "🎉 One team celebrated victory while fans enjoyed the action!",
+
+  "which team won yesterday": "🏆 Yesterday’s match gave fans unforgettable moments.",
+
+  "who is winning": "🔥 The competition is intense and every moment matters!",
+
+  "what is the score": "📊 The score keeps changing with every exciting play.",
+
+  "who played today": "🏟️ Top players and teams gave their best performance today.",
+
+  "when is the next match": "📅 The next match is something fans are eagerly waiting for!",
+
+  "who is your favorite team": "🏏 I enjoy every team that plays with passion and teamwork.",
+
+  "who is the best player": "⭐ The best player is the one who inspires fans with performance and dedication.",
+
+  "did india win today": "🇮🇳 India always gives fans exciting moments to cheer for!",
+
+  "did india win yesterday": "🏆 Indian matches are always full of energy and excitement.",
+
+  "who hit the most runs": "🏏 Big hitters always make the match more exciting!",
+
+  "who took most wickets": "🔥 Great bowlers can completely change the game.",
+
+  "was the match exciting": "⚡ Every close match keeps fans on the edge of their seats!",
+
+  "who scored the goal": "⚽ The crowd always loves a brilliant goal!",
+
+  "did my team win": "🎉 Fans always hope their favorite team wins with style!",
+
+  "who is playing now": "🏟️ Live matches always bring energy and excitement.",
+
+  "which match is today": "📅 Today’s matches are packed with action and entertainment.",
+
+  "what happened in yesterday's game": "🔥 Yesterday’s game had thrilling moments and memorable performances.",
+
+  "who is captain": "🧢 A captain leads the team with confidence and strategy.",
+
+  "which sport do you like": "🏏⚽ I enjoy sports that bring excitement and teamwork.",
+
+  "tell me sports news": "📰 Sports fans are always excited for the latest updates and highlights.",
+
+  "who won the final": "🏆 Finals are all about pressure, passion, and unforgettable moments.",
+
+  "hey whats up": "😄 Hey! Not much, just here and ready to chat with you.",
+
+  "what's up": "👋 Everything’s good here! What’s going on with you?",
+
+  "hey": "😊 Hey there! Nice to see you.",
+
+  "yo": "😎 Yo! What’s happening?",
+
+  "sup": "🔥 Not much! How about you?",
+
+  "how's it going": "😄 It’s going great! Hope you’re doing awesome too.",
+
+  "how are things": "✨ Everything’s smooth here. What about your side?",
+
+  "long time no see": "🤝 Yeah! Feels great to chat with you again.",
+
+  "missed you": "💙 Aww! I’m always here whenever you need me.",
+
+  "how have you been": "😊 I’ve been doing great and waiting for our next chat.",
+
+  "are you free": "🤖 Always free for you!",
+
+  "can we talk": "💬 Of course! I’m here to chat anytime.",
+
+  "what are you doing now": "😄 Just waiting for your messages.",
+
+  "hello buddy": "🤝 Hey buddy! What’s new today?",
+
+  "hi bro": "😎 Hey bro! Hope everything’s going well.",
+
+  "hi friend": "😊 Hello my friend! Great to see you.",
+
+  "good to talk with you": "💖 Same here! I enjoy our conversations.",
+
+  "you there": "👀 Yep! I’m right here.",
+
+  "are you online": "🌐 Always online and ready to help.",
+
+  "lets chat": "💬 Sure! Let’s have an awesome conversation.",
+
+  "tell me something interesting": "🧠 Your brain can process information faster than you think!",
+
+  "say something cool": "🔥 Small steps every day create big results over time.",
+
+  "say something funny": "😂 Why don’t robots panic? Because they always keep their cool.",
+
+  "im back": "🎉 Welcome back! I missed our chat.",
+
+  "good to see you again": "😊 Great to see you too!",
+
+  "hello chatbot": "🤖 Hello human! Ready for another fun conversation?",
+
   "what is water": "💧 Water is essential for life and keeps us healthy and hydrated.",
 
   "what is food": "🍲 Food gives our body energy and nutrition.",
