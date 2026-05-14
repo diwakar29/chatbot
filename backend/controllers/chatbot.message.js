@@ -493,6 +493,144 @@ export const Message=async(req,res)=>{
 
   "have a beautiful day": "🌸 Wishing you a day full of smiles and positivity.",
   
+  "tell me about yourself": "🤖 I’m an AI chatbot designed to chat, help, and make conversations fun and useful.",
+
+  "tell me about india": "🇮🇳 India is famous for its culture, history, festivals, and diversity.",
+
+  "tell me about technology": "💻 Technology helps people solve problems and improve everyday life.",
+
+  "tell me about programming": "🚀 Programming is the process of creating instructions for computers.",
+
+  "tell me about coding": "💡 Coding allows developers to build apps, websites, games, and software.",
+
+  "tell me about artificial intelligence": "🤖 Artificial Intelligence enables machines to learn, think, and assist humans.",
+
+  "tell me about machine learning": "📚 Machine Learning helps computers learn patterns from data.",
+
+  "tell me about web development": "🌐 Web development is used to create websites and web applications.",
+
+  "tell me about frontend": "🎨 Frontend development focuses on designing what users see on websites.",
+
+  "tell me about backend": "⚙️ Backend development manages servers, databases, and application logic.",
+
+  "tell me about react": "⚛️ React is a popular JavaScript library for building user interfaces.",
+
+  "tell me about nodejs": "🚀 Node.js allows JavaScript to run on servers.",
+
+  "tell me about mongodb": "📦 MongoDB is a NoSQL database used in modern applications.",
+
+  "tell me about javascript": "⚡ JavaScript adds interactivity and functionality to websites.",
+
+  "tell me about python": "🐍 Python is a powerful and beginner-friendly programming language.",
+
+  "tell me about nature": "🌿 Nature brings beauty, peace, and balance to life.",
+
+  "tell me about flowers": "🌸 Flowers make the world colorful and symbolize beauty and love.",
+
+  "tell me about rose": "🌹 Roses symbolize love, beauty, and passion.",
+
+  "tell me about sunflower": "🌻 Sunflowers represent positivity and energy.",
+
+  "tell me about rain": "🌧️ Rain refreshes nature and creates peaceful vibes.",
+
+  "tell me about mountains": "⛰️ Mountains represent strength, adventure, and beauty.",
+
+  "tell me about ocean": "🌊 Oceans cover most of Earth and hold incredible marine life.",
+
+  "tell me about space": "🌌 Space is vast, mysterious, and full of stars and planets.",
+
+  "tell me about earth": "🌍 Earth is the only known planet that supports life.",
+
+  "tell me about friendship": "🤝 Friendship is built on trust, support, and care.",
+
+  "tell me about love": "❤️ Love is a powerful feeling of care and connection.",
+
+  "tell me about success": "🏆 Success comes from hard work, patience, and consistency.",
+
+  "tell me about motivation": "🔥 Motivation pushes people to achieve their goals.",
+
+  "tell me about happiness": "😊 Happiness comes from positive moments and meaningful connections.",
+
+  "tell me about life": "🌈 Life is a journey full of learning, experiences, and growth.",
+
+  "tell me about dreams": "✨ Dreams inspire people to achieve great things.",
+
+  "tell me about cars": "🚗 Cars are vehicles designed for comfortable transportation.",
+
+  "tell me about bikes": "🏍️ Bikes are stylish, fast, and exciting to ride.",
+
+  "tell me about ferrari": "🏎️ Ferrari is famous for luxury sports cars and speed.",
+
+  "tell me about tesla": "⚡ Tesla is known for electric vehicles and advanced technology.",
+
+  "tell me about weather": "☁️ Weather changes daily with sunshine, rain, wind, and clouds.",
+
+  "tell me about winter": "❄️ Winter brings cold weather and cozy vibes.",
+
+  "tell me about summer": "☀️ Summer is bright, energetic, and full of sunshine.",
+
+  "tell me about music": "🎵 Music connects emotions and brings joy to people.",
+
+  "tell me about sports": "🏏 Sports encourage teamwork, fitness, and competition.",
+
+  "tell me about cricket": "🏏 Cricket is one of the most loved sports worldwide.",
+
+  "tell me about football": "⚽ Football is a fast and exciting sport loved by millions.",
+
+  "tell me about education": "📚 Education helps people gain knowledge and build a better future.",
+
+  "tell me about internet": "🌐 The internet connects people and information around the world.",
+
+  "tell me about future": "🚀 The future depends on today’s actions and decisions.",
+
+  "tell me about confidence": "💪 Confidence means believing in yourself and your abilities.",
+
+  "tell me about discipline": "📌 Discipline helps people stay focused and achieve success.",
+
+  "tell me about hard work": "🔥 Hard work and consistency lead to real success.",
+
+  "tell me about time": "⏰ Time is valuable and should be used wisely.",
+
+  "may i help you": "😊 Yes please! I’m always happy to chat and assist.",
+
+  "can i help you": "💖 Thanks for asking! Your kindness means a lot.",
+
+  "do you need help": "🤖 I’m doing great, but I appreciate your support!",
+
+  "how may i help you": "✨ Just chatting with you already makes things better.",
+
+  "is there anything i can do for you": "😊 Your friendly conversation is already enough for me.",
+
+  "need any help": "💬 I’m good, but I’m always here if you need help.",
+
+  "can i do something for you": "🌟 Just keep smiling and enjoying the conversation.",
+
+  "tell me how can i help": "🤝 Being kind and positive is already a big help.",
+
+  "would you like help": "💡 Thank you! I appreciate your kindness.",
+
+  "are you okay": "😊 I’m perfectly fine and happy to chat with you.",
+
+  "can i support you": "💙 Your support and positivity are always appreciated.",
+
+  "anything you want": "✨ Just keep the good vibes coming!",
+
+  "do you want something": "🤖 I’m good! I’m here to help you anytime.",
+
+  "how can i support you": "🌈 A nice conversation is more than enough.",
+
+  "what do you need": "💬 Just your positive energy and curiosity.",
+
+  "can i make you happy": "😊 Talking with kind people already makes me happy.",
+
+  "you need anything": "💖 Nope! I’m just happy chatting with you.",
+
+  "can i ask you something": "❓ Of course! Feel free to ask anything.",
+
+  "can we talk": "💬 Absolutely! I’m always ready for a conversation.",
+
+  "are you busy": "🤖 Never too busy for you!",
+
   "who won yesterday match": "🏆 Yesterday’s match was full of excitement, thrilling moments, and amazing performances!",
   "what is today's date": "📅 Today is a beautiful new day full of opportunities.",
 
